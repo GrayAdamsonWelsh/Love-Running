@@ -201,6 +201,15 @@ main {
     line-height: 0px;
 }
 
+
+/*sign ip styles */
+
+#signup {
+    background-image: url('../images/signup-image.webp');
+    background-size: cover;
+    flex-grow: 1;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
